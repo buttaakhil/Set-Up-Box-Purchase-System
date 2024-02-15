@@ -1,0 +1,11 @@
+ _____________________________
+| What you'd like to watch:   |
+|                             |
+| 1. TV Shows                 |
+| 2. Movies                   |
+| 3. News                     |
+| 4. Sports                   |
+| 5. Music                    |
+| 6. Knowledge                |
+| 7. Kids                     |
+|_____________________________|

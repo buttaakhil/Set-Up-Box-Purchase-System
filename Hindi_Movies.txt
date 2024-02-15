@@ -1,0 +1,12 @@
+________________________________________________________________
+|HINDI Movies:                                                 |
+|                                                              |
+| H13.  Colors Cineplex                        Rs. 3.50 /month |
+| H14.  Sony MAX                               Rs. 17.70 /month|
+| H15.  Sony MAX2                              Rs. 1.10 /month | 
+| H16.  Sony WAH                               Rs. 1.10 /month |
+| H17.  Star Gold                              Rs. 22.40 /month|
+| H18.  Star Utsav                             Rs. 1.10 /month |
+| H19.  Zee Bollywood                          Rs. 3.50 /month | 
+| H20.  Zee Cinema                             Rs. 22.40 /month|
+|______________________________________________________________|

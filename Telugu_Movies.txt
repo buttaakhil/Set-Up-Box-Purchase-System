@@ -1,0 +1,9 @@
+________________________________________________________________
+|TELUGU Movies:                                                |
+|                                                              |
+| T8.   ETV Cinema                             Rs. 15.30 /month|
+| T9.   Gemini Movies                          Rs. 20.10 /month|
+| T10.  Star Maa Gold                          Rs. 8.20 /month | 
+| T11.  Star Maa Movies                        Rs. 22.20 /month|
+| T12.  Zee Cinemalu                           Rs. 11.80 /month|
+|______________________________________________________________|
